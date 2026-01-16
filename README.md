@@ -1,14 +1,14 @@
 # Hi, I'm Mohit Deshpande! 👋
 
-I am a Full Stack Developer specializing in the **MERN Stack**. With a background in analytical science, I bring a precise, data-driven approach to building scalable web applications and secure backend architectures.
+I am a Full Stack Developer specializing in the **MERN Stack**. With a solid foundation in **Computer Engineering**, I bring a precise, structured approach to building scalable web applications and secure backend architectures.
 
 ### 🛠 Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,nodejs,express,python,django" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,aws,docker,linux,git,sentry,jest" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cypress,postman,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,nodejs,express,python,django" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,aws,docker,linux,git,sentry,jest" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cypress,postman,graphql" />
 </div>
 
 ## 🔭 Current Focus
