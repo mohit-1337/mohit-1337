@@ -2,17 +2,17 @@
 
 I am a Full Stack Developer specializing in the **MERN Stack**. With a background in analytical science, I bring a precise, data-driven approach to building scalable web applications and secure backend architectures.
 
-### 🛠 Tech Stack
-
+### 🛠 Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,react,nextjs,ts,vite,tailwind,nodejs,express,python,django" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind,nodejs,express,python,django" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,aws,docker,linux,git,sentry,jest" />
   <br>
   <img src="https://skillicons.dev/icons?i=cypress,postman,graphql" />
 </div>
+
 ## 🔭 Current Focus
-I am currently building production-ready applications with a focus on **API security** and **scalable database design**.
+**I am currently building production-ready applications with a focus on **API security** and **scalable database design**.
 
 ## 🤝 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/mohit-deshpande09/)
