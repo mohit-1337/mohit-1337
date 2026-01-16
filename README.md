@@ -12,7 +12,7 @@ I am a Full Stack Developer specializing in the **MERN Stack**. With a backgroun
 </div>
 
 ## 🔭 Current Focus
-**I am currently building production-ready applications with a focus on **API security** and **scalable database design**.
+I am currently building production-ready applications with a focus on **API security** and **scalable database design**.
 
 ## 🤝 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/mohit-deshpande09/)
